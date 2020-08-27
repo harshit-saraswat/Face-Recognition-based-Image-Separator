@@ -1,7 +1,7 @@
 # Face-Recognition-based-Image-Separator
 This is a small fun project which uses face recognition techniques to separate images from a large dataset into images of different people according to faces.
 
-This repo contains all the code for my blog post on [medium](https://medium.com/@contactharshitsaraswat/face-recognition-based-image-separator-408681f2360d)
+This repo contains all the code for my blog post on [medium](https://medium.com/analytics-vidhya/face-recognition-based-image-separator-408681f2360d)
 
 # Contents
   1. Getting Started
